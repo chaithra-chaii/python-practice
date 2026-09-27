@@ -4,10 +4,10 @@ A simple Python program that calculates the sum of all even numbers from 1 to `n
 
 ### Features
 
-* Uses a `for` loop
-* Checks even numbers using `if`
-* Calculates the sum without using `sum()`
-* Counts the number of even numbers
+ Uses a `for` loop
+ Checks even numbers using `if`
+ Calculates the sum without using `sum()`
+ Counts the number of even numbers
 
 # 2.Stone Paper Scissors
 
